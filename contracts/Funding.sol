@@ -1,6 +1,5 @@
 pragma solidity >=0.4.21 <0.6.0;
 
-
 /// @author Kevin McFarlane
 /// @title Represents funding of an artist.
 contract Funding {
